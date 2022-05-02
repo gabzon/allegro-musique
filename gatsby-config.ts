@@ -1,7 +1,7 @@
 import type { GatsbyConfig } from "gatsby";
 
 const config: GatsbyConfig = {
-  pathPrefix: `/allegro-musique`,
+  pathPrefix: `allegro-musique`,
   siteMetadata: {
     title: `Allegro musique`,
     siteUrl: `https://www.allegromusique.ch`
