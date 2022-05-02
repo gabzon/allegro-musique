@@ -1,0 +1,8 @@
+@import "../css/fonts.css";
+
+body {    
+    font-family: "Inter", georgia, serif;
+    font-weight: normal;
+    word-wrap: break-word;
+    font-kerning: normal;
+}
