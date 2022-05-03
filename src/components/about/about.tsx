@@ -1,5 +1,5 @@
 import React from "react"
-import image  from "../../images/about2.jpg"
+import image  from "../../images/about.jpg"
 import logo  from "../../images/logo.png"
 import loisirs from "../../images/loisirs-ge.png"
 import glaj from "../../images/glaj1.png"

@@ -88,7 +88,7 @@ const Info = () => {
                 <div className="mt-6">
                     <h2 className="text-3xl font-extrabold tracking-tight text-amber-400">Où nous trouver</h2>
                     <p className="mt-4 text-lg text-amber-100 text-justify">                                  
-                    Nous serons à la Paroisse du Montbrillant pendant tout l'été 2022 pour notre camp d'été sous la forme de vacances artistiques.
+                    Nous serons à la Paroisse de Montbrillant pendant tout l'été 2022 pour notre camp d'été sous la forme de vacances artistiques.
                     <br /><br />Rue Baulacre 16, 1202 Genève
                     (en face du parc Beaulieu) 
                     <br /><br />
