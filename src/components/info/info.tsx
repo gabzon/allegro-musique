@@ -17,9 +17,9 @@ const Info = () => {
                     </span>
                 </div>
                 <div className="mt-6">
-                    <h2 className="text-3xl font-extrabold tracking-tight text-amber-400">Vacances artistiques de 4 a 10 ans</h2>
+                    <h2 className="text-3xl font-extrabold tracking-tight text-amber-400">Vacances artistiques de 4 à 10 ans</h2>
                     <p className="mt-4 text-lg text-amber-100 text-justify">
-                    Allegro musique à pour vocation de sensibiliser les enfants, dès l’âge de 4 ans aux pratiques artistiques, en proposant diverses activités : Danse, Musique, Théâtre, etc.
+                    Allegro musique a pour vocation de sensibiliser les enfants, dès l’âge de 4 ans aux pratiques artistiques, en proposant diverses activités : Danse, Musique, Théâtre, etc.
                     </p>
                     <p className="mt-4 text-lg text-amber-100 text-justify">
                     Toutes nos activités artistiques sont encadrées par des enseignants diplômés des hautes écoles d’art et de musique permettant l’apport d’un contenu pédagogique de qualité.

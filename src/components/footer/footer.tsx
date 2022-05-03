@@ -68,7 +68,7 @@ const Footer = () => (
           </svg>
         </a>
       </div>
-      <p className="mt-8 text-center text-base text-teal-700">&copy; 2020 Allegro musique. All rights reserved.</p>
+      <p className="mt-8 text-center text-base text-teal-700">&copy; 2022 Allegro musique. All rights reserved.</p>
     </div>
   </footer>
 )
