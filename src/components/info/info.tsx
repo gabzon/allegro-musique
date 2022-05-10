@@ -1,7 +1,7 @@
 import React from "react"
 import NoteIcon from "../icons/note"
 import PinIcon from "../icons/pin"
-import info  from "../../images/plus-info.jpg"
+import info  from "../../images/plus-info.png"
 
 
 const Info = () => {

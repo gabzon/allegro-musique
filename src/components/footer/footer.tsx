@@ -43,7 +43,7 @@ const Footer = () => (
           </div>
 
           <div className="px-5 py-2">
-            <a href="#reviews" className="text-base font-medium text-teal-700 hover:text-teal-600">Témoingnages</a>
+            <a href="#reviews" className="text-base font-medium text-teal-700 hover:text-teal-600">Témoignages</a>
           </div>
       </nav>
       <div className="mt-8 flex justify-center space-x-6">
