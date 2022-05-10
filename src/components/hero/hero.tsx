@@ -88,7 +88,7 @@ const Hero = () => {
               </svg>
               <div className="relative mx-auto w-full rounded-lg shadow-lg lg:max-w-md">
               <div className="block w-full aspect-w-10 aspect-h-6 rounded-lg overflow-hidden">
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/9_tXCCgjyJM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/sbE4gShT4uQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
               </div>
               </div>
             </div>
@@ -99,7 +99,6 @@ const Hero = () => {
   )
 }
 export default Hero
-
 
 
 {/*<div className="relative bg-amber-300 overflow-hidden">
